@@ -1,8 +1,8 @@
 name: StealthyPlugin
-main: io.github.realstealthninja.stealthyplugin.StealthPlugin
+main: io.github.realstealthninja.stealthyplugin.StealthyPlugin
 version: 0.0.1
 author: stealthninja
 commands:
    translate:
       description: Translate coordinates to overworld or to nether
-      usage: /<command> <nether | overworld,> <x> <y> <z>
+      usage: /<command> <nether | overworld> <x> <y> <z>
